@@ -1,0 +1,19 @@
+header{
+    border-bottom: 1px solid rgb(194, 189, 189);
+    display: flex;
+    justify-content: space-between;
+    height: 40px;
+    align-items: center; 
+    background-color: #1B60C6;
+    color: aliceblue;
+}
+
+p{
+    margin-left: 30px;
+    cursor: pointer;
+}
+
+span{
+    margin-right: 30px;
+    cursor: pointer;
+}
